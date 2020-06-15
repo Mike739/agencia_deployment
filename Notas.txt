@@ -1,0 +1,3 @@
+server/index.js contiene toda la confguracion del proyecto 
+
+
